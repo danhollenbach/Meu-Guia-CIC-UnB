@@ -41,8 +41,8 @@ Este repositório tem dois propósitos principais:
 
 ### Clonando o repositório
 ```bash
-git clone https://github.com/seuuser/seurepo.git
-cd seurepo
+git clone https://github.com/danhollenbach/Meu-Guia-CIC-UnB
+cd Meu-Guia-CIC-UnB
 git pull origin main
 ```
 
